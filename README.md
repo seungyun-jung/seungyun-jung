@@ -20,6 +20,7 @@ Currently working at REBORN GROUP as Software Engineer
  
 - Other Experiences
   * RDBMS (MySQL, MariaDB, PostgreSQL)
+  * RESTful APIs
   * AWS
   * Git (GitHub)
   * Linux (CentOS, Ubuntu)

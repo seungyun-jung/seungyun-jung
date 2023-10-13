@@ -1,8 +1,28 @@
-- 👋 Hi, I’m @seungyun-jung
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Seungyun JUNG
+
+An aspiring Software Engineer based in Seoul, South Korea.
+Currently working at REBORN GROUP as Software Engineer
+
+- Programming Languages
+  * Python
+  * Dart
+  * JAVA
+  * C++
+
+ - Back-end Frameworks
+   * Django
+   * Spring Boot
+   * Flask (Quart)
+  
+- Front-end Frameworks
+   * Flutter (Android, iOS)
+   * PyQt6 (Windows, macOS)
+ 
+- Other Experiences
+  * RDBMS (MySQL, MariaDB, PostgreSQL)
+  * AWS
+  * Git (GitHub)
+  * Linux (CentOS, Ubuntu)
 
 <!---
 seungyun-jung/seungyun-jung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

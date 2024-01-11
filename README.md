@@ -2,7 +2,7 @@
 
 Software Engineer based in Seoul, South Korea.
 
-Currently working at REBORN GROUP as a full-stack Software Engineer
+Currently working at REBORN GROUP
 
 - Programming Languages
   * Python

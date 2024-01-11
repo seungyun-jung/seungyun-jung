@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Seungyun JUNG
 
-I am an aspiring Software Engineer based in Seoul, South Korea.
+Software Engineer based in Seoul, South Korea.
 
 Currently working at REBORN GROUP as a full-stack Software Engineer
 

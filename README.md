@@ -8,23 +8,22 @@ Currently working at REBORN GROUP
   * Python
   * Dart
   * JAVA
-  * C++
+  * C/C++
 
  - Back-end Frameworks
    * Django
-   * Spring Boot
-   * Flask (Quart)
+   * FastAPI
   
 - Front-end Frameworks
    * Flutter (Android, iOS)
    * PyQt6 (Windows, macOS)
  
 - Other Experiences
-  * RDBMS (MySQL, MariaDB, PostgreSQL)
+  * RDBMS
   * RESTful APIs
   * AWS
-  * Git (GitHub)
-  * Linux (CentOS, Ubuntu)
+  * Git
+  * Linux
 
 <!---
 seungyun-jung/seungyun-jung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
